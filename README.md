@@ -6,7 +6,8 @@
 ### Lang and Tech
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-
+![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=JAVASCRIPT)
 
 Here are some ideas to get you started:
 
