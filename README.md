@@ -1,7 +1,11 @@
-### Hi there 👋
+# 👋 Hi, my name is **Alexander Baranov**.
+## I`m a beginner *Web-developer*
+## From Ukraine / Mykolaiv
 
-<!--
-**Caseynorth182/Caseynorth182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Lang and Tech
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+
 
 Here are some ideas to get you started:
 
