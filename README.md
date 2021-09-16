@@ -1,5 +1,5 @@
 # 👋 Hi, my name is **Alexander Baranov**.
-## I`m a beginner *Web-developer*
+## I`m  *Web-developer*
 ### From Ukraine / Mykolaiv
 
 
