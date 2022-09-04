@@ -1,6 +1,6 @@
-# 👋 Hi, my name is **Alexander Baranov**.
-## I`m  *Web-developer*
-### From Ukraine / Mykolaiv
+# 👋 Hi, my name is **Olexander Baranov**.
+## I`m  *Full-stack Web-developer*
+### From Ukraine / Mykolaiv 
 
 
 ### Lang and Tech
